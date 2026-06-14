@@ -1,0 +1,6 @@
+1,Flamengo,Palmeiras,2x1
+1,Santos,Corinthians,1x1
+2,Flamengo,Santos,3x0
+2,Palmeiras,Corinthians,2x0
+3,Corinthians,Flamengo,1x2
+3,Palmeiras,Santos,1x0
